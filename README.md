@@ -50,13 +50,14 @@ Dataset includes:
 
 ## 📸 Dashboard Preview
 
-(Add screenshot here)
+<img width="1115" height="629" alt="image" src="https://github.com/user-attachments/assets/f9f1e96d-3140-4405-ac3d-5cac37ad297d" />
+
 
 ---
 
 ## ⭐ Future Improvements
 
-* Spotify API integration
+* Spotify Data integration
 * Real-time data updates
 * Enhanced UI animations
 
