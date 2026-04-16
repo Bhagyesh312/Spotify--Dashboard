@@ -36,6 +36,7 @@ Dataset includes:
 * Songs metadata
 * Artist information
 * Audio features (energy, danceability, etc.)
+* Here you can access datasets: https://drive.google.com/drive/folders/1bDmGTpIPrhumQbg3Ergh4LoBqkLLgh4p?usp=sharing
 
 ---
 
